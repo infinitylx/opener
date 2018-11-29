@@ -11,14 +11,7 @@ go get -u github.com/jonathanwthom/opener
 cd $GOPATH/src/github.com/jonathanwthom/opener
 go install
 ```
-
-Otherwise, move the binary to somewhere in your PATH:
-
-```
-git clone https://github.com/JonathanWThom/opener
-cd opener
-mv opener /usr/local/bin/opener
-```
+Don't forget to add $GOPATH to $PATH to be able to call this app.
 
 ### Usage
 
