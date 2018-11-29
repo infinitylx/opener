@@ -30,9 +30,11 @@ This program was built on a my Mac, so probably only works on Unix systems.
 
 If it doesn't work as intended, please open an issue!
 
-### TODO
+### TODO:
 
-Better error handling/more informative messages.
+* Better error handling/more informative messages;
+* Add profiles;
+* Check if app already running;
 
 ### License
 
